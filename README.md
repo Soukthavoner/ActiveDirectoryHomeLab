@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-In this lab, I walked through how to create an Active Directoy home lab environment using Orcale Virtual Box. Configuring and running this lab to help develop my understanding of how active directoy and windows networking works.<br />
+In this lab, I walked through how to create an Active Directory home lab environment using Orcale Virtual Box. Configuring and running this lab to help develop my understanding of how active directory and windows networking works.<br />
 
 
 <h2>Languages and Utilities Used</h2>
