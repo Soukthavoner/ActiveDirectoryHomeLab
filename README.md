@@ -23,8 +23,8 @@ In this lab, I walked through how to create an Active Directory home lab environ
 - <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019"><b>Windows Server 2019 ISO</b></a>
 
 <h3>Setting Up the Virtual Box:</h3>
-<p>Open Oracle Virtual Box and then being with making the server computer first.<br/>
- <img src="https://imgur.com/a/M9WigrD" height="80%" width="80%" alt="Setting Up the Virtual Box"/><br/>
+<p align="center">Open Oracle Virtual Box and then being with making the server computer by clicking on "New".<br/>
+ <img src="https://i.imgur.com/loRZrpo.png" height="80%" width="80%" alt="Setting Up the Virtual Box"/><br/>
 </p>
 
 <p align="center">
