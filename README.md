@@ -13,10 +13,14 @@ In this lab, I walked through how to create an Active Directory home lab environ
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 - <b>Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Set Up:</h2>
+<h3>Required Downloads:</h3>
+- <a href="https://www.virtualbox.org/wiki/Downloads"><b>The lastest version of the Virtual Box platform and extension pack</b></a></br>
+- <a href="https://www.microsoft.com/en-us/software-download/windows10"><b>Windows 10 ISO</b></a></br>
+- <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019"><b>Windows Server 2019 ISO</b></a>
 
 <p align="center">
 Launch the utility: <br/>
