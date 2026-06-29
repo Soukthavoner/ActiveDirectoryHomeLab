@@ -30,6 +30,10 @@ In this lab, I walked through how to create an Active Directory home lab environ
  <br/>
  Naming the server "DC" and setting the OS version to "Other Windows (64-bit)<br/>
  <img src="https://i.imgur.com/voT3zly.png" height="80%" width="80%" alt="Setting Up the Virtual Box"/>
+ <br/>
+ <br/>
+ Giving the server 2GB of RAM and 2 CPU processors
+ <img src="https://i.imgur.com/7iz3hL3.png" height="80%" width="80%" alt="Setting Up the Virtual Box"/>
 </p>
 
 <p align="center">
