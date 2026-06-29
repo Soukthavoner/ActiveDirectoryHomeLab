@@ -32,8 +32,19 @@ In this lab, I walked through how to create an Active Directory home lab environ
  <img src="https://i.imgur.com/voT3zly.png" height="80%" width="80%" alt="Setting Up the Virtual Box"/>
  <br/>
  <br/>
- Giving the server 2GB of RAM and 2 CPU processors
+ Going to the DC's computer settings and in the General Features I give the server 2GB of RAM and 2 CPU processors<br/>
  <img src="https://i.imgur.com/7iz3hL3.png" height="80%" width="80%" alt="Setting Up the Virtual Box"/>
+ <br/>
+ <br/>
+ Changing the computer settings by clicking on settings and in the General Features tab, changed the "Shared Clipboard" and "Drag-and-Drop" to "Bidirectional"<br/>
+ <img src="https://i.imgur.com/Ub3ZryF.png" height="80%" width="80%" alt="Setting Up the Virtual Box"/>
+ <br/>
+ <br/>
+ Going into the Newtork settings, make sure the first adapter is attached to "NAT" so it uses my local Wifi and enable the second adapter to be attached to the "Internal Network"<br/>
+ <img src="https://i.imgur.com/tsYkQNg.png" height="40%" width="40%" alt="Setting Up the Virtual Box"/>
+ <img src="https://i.imgur.com/nKyHzuJ.png" height="40%" width="40%" alt="Setting Up the Virtual Box"/>
+ <br/>
+ <br/>
 </p>
 
 
